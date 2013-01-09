@@ -1,0 +1,10 @@
+<h1>Product#new</h1>
+<p>Find me in app/views/product/new.html.erb</p>
+
+<%= form_for @product, :as => :product, :url => create_product_path, :method =>"get" do |f| %>
+
+<label>Product Name</label><br/>
+<%= f.text_field :name %>
+
+<%= f.submit :Submit  %>
+<% end %>
