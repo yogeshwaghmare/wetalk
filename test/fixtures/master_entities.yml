@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  master_category_id: 1
+  entity_name: MyString
+  information: MyString
+  address: MyString
+  sub_category: MyString
+  lat: 1.5
+  long: 1.5
+  entity_image: MyString
+  is_active: false
+
+two:
+  master_category_id: 1
+  entity_name: MyString
+  information: MyString
+  address: MyString
+  sub_category: MyString
+  lat: 1.5
+  long: 1.5
+  entity_image: MyString
+  is_active: false

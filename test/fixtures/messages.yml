@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  parent_thread_id: 1
+  text: MyText
+  send_date: 2013-01-08
+  sender_id: 1
+
+two:
+  parent_thread_id: 1
+  text: MyText
+  send_date: 2013-01-08
+  sender_id: 1

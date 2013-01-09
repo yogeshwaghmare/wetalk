@@ -1,4 +1,0 @@
-wetalk
-======
-
-Rails Application

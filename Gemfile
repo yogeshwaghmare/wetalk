@@ -22,6 +22,13 @@ end
 
 gem 'jquery-rails'
 
+gem 'omniauth'
+gem 'omniauth-facebook'
+# TODO: some of these below are not needed
+gem 'omniauth-google'
+gem 'omniauth-openid'
+gem 'omniauth-twitter'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 

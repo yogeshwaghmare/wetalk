@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  user_is: 1
+  user_entity_id: 1
+  lat: 1.5
+  long: 1.5
+  is_public: false
+  post_comment: MyString
+  post_image: MyString
+  is_active: false
+
+two:
+  user_is: 1
+  user_entity_id: 1
+  lat: 1.5
+  long: 1.5
+  is_public: false
+  post_comment: MyString
+  post_image: MyString
+  is_active: false
